@@ -1,0 +1,44 @@
+body{
+    background-color:;
+}
+.C1{
+    width: 300px;
+   
+}
+.cnb{
+    position: relative;
+    left: 80px;
+}
+.cb1{
+    display: flex;
+    justify-content: space-between;
+}
+.cf1 {
+    flex: 1; 
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 0 10px;
+  }
+  .cf1-no-friend{
+  width: 464px;
+    position: relative;
+    top: 20px;
+    right: 10px;
+    left: 250px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding:  20Px;
+    margin: 0px 20px;
+  }
+  .bott{
+    border-bottom: 1px solid #212121;
+  }
+  .me-auto{
+display: flex;
+position: relative;
+left: 65px;
+bottom: 17.9px;
+justify-content: space-evenly;
+}
+
